@@ -20,7 +20,7 @@ import Haze from "./Lights/Haze";
 
 
 const audio = new Audio('/magic.mp3');
-audio.volume = 0.3;
+audio.volume = 0.1;
 
 
 

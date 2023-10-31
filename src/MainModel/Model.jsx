@@ -17,10 +17,11 @@ export function Model(props) {
   const [play, setPlay] = useState(false);
 
   const audio = new Audio('/click-sound.mp3');
+  audio.volume = 0.3;
   const audioS = new Audio('/success.mp3');
-  audioS.volume = 0.7;
+  audioS.volume = 0.1;
   const audioF = new Audio('/fail.mp3');
-  audioF.volume = 0.3;
+  audioF.volume = 0.1;
 
   const emissionMaterialRED = new THREE.MeshStandardMaterial({
     color: 'green', // base color of the material
