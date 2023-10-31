@@ -5,6 +5,8 @@
 Welcome to "threejs_journey_halloween_competition", a simple puzzle cube game where the goal is simple.
 Solve the cube! 
 
+( Project not completed yet.)
+
 ## Technologies Used:
 
 React Three Fiber, React Three Drei, GSAP (GreenSock Animation Platform).
