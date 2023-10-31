@@ -47,7 +47,12 @@ useEffect(() => {
         <CustomLights />
         {/* <CustomAmbientLight /> */}
         {/* </TransformControls> */}
-        <OrbitControls makeDefault/>
+        <OrbitControls 
+        makeDefault
+        minDistance={5}    // Minimum zoom distance
+        maxDistance={20}   // Maximum zoom distance
+        maxPolarAngle={Math.PI / 2} // Limit angle to prevent looking below the object
+      />
         <CameraSetup />
         <Piano />
           <Model  />
