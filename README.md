@@ -1,8 +1,20 @@
-# React + Vite
+## threejs_journey_halloween_competition
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![game](https://github.com/pgpavlides/threejs_journey_halloween_competition/assets/95945945/e1de0088-6778-42e7-8c05-9cbb36903e4c)
 
-Currently, two official plugins are available:
+Welcome to "threejs_journey_halloween_competition", a simple puzzle cube game where the goal is simple.
+Solve the cube! 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used:
+
+React Three Fiber, React Three Drei, GSAP (GreenSock Animation Platform).
+
+Big shoutout to Bruno Simon. 
+Without his amazing course i would never be able to do anything. 
+
+![share-image](https://github.com/pgpavlides/threejs_journey_halloween_competition/assets/95945945/17575007-ba45-4201-afe9-5df3b7b8cd7b)
+
+Make sure to check out his course! 
+
+https://threejs-journey.com/
+
